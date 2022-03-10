@@ -1,4 +1,4 @@
-Submit: Loop Map Exercise
+## Submit: Loop Map Exercise
 Loop and Map.Entry Exercises
 
 Write a program that does the following:
